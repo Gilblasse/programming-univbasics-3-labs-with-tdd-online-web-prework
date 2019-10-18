@@ -20,3 +20,5 @@ def calculator (num1,num2,operator)
   end
   
 end
+
+calculator(1,2,'/')
