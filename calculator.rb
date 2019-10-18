@@ -9,6 +9,6 @@ def calculator (num1,num2,operator)
   first_number = num1
   second_number = num2
   
-  if operator.to_downcase == 'x'
+  if operator == 'x' or 
   
 end
