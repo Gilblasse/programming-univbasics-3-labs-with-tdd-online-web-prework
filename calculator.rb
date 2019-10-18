@@ -27,5 +27,6 @@ def calculator (num1,num2,operator)
     else
       return "invalid operator"
   end
-  
 end
+
+calculator(4,2,'/')
