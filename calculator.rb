@@ -8,5 +8,7 @@ quotient = first_number / second_number
 def calculator (num1,num2,operator)
   first_number = num1
   second_number = num2
-  operator
+  
+  if operator.to_lowercase == 'x'
+  
 end
